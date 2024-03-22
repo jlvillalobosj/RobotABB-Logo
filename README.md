@@ -18,6 +18,10 @@ El presente repositorio tiene por objetivo dar a conocer el funcionamiento del b
 
 El diagrama de flujo presentado se basa en las acciones seriales del brazo robótico con las respectivas restricciones o condiciones que se consideran necesarias para el propósito del robot
 
+<p align="center">
+  <img src="/Imágenes/Diagrama BrzoRobotico.drawio.png" width="400" />
+</p>
+
 ## Plano de planta
 
 ## Funciones utilizadas
@@ -28,6 +32,10 @@ La herramienta se diseñó siguiendo las especificaciones del fabricante del rob
 
 <p align="center">
   <img src="/Imágenes/Tool1.PNG" width="400" />
+</p>
+
+<p align="center">
+  <img src="/Imágenes/Herramienta.PNG" width="400" />
 </p>
 
 ## Código en RAPID
