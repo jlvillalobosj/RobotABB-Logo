@@ -42,9 +42,9 @@ La herramienta se diseñó siguiendo las especificaciones del fabricante del rob
 ## [Código en RAPID](/LogoTesla/ControllerData/IRB140_6_81/RAPID/TASK1/PROGMOD/Module1.mod)
 
 ## Videos de pruebas de funcionamiento
-#Simulación
+Simulación
 https://github.com/jlvillalobosj/RobotABB-Logo/assets/57506705/320bad9b-4126-4240-a565-06e80536f104
 
-#Prueba Real
+Prueba Real
 https://github.com/jlvillalobosj/RobotABB-Logo/assets/57506705/acefa244-26ae-4086-ad4b-36ae096dd5aa
 
