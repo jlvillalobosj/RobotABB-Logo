@@ -38,8 +38,35 @@ La herramienta se diseñó siguiendo las especificaciones del fabricante del rob
 
   <img src="/Imágenes/Herramienta.PNG" width="400" />
 </p>
-
 ## [Código en RAPID](/LogoTesla/ControllerData/IRB140_6_81/RAPID/TASK1/PROGMOD/Module1.mod)
+
+Para el diseño del código se inició crando una herramienta la cual me ayudaba como referencia para modificar el TCP en donde se establece como punto de referencia la punta del marcador ubicado sobre esta misma, esta se ajustó de modo que el eje Z se muestre en paralelo a la dirección del largo de la herramienta con el fin de asegurar que al ubicar de forma perpendicular el eje Z al plano, del mismo modo el marcador se iba a comportar
+
+<p align="center">
+  <img src="/Imágenes/CreacionHerramienta.PNG" />
+ <img src="/Imágenes/TCP.PNG" style="float:left;" />
+</p>
+
+Se procedio a establecer los diferentes *Targets* por donde se espera pasar el marcador, entre estos inicialmente se ubicaron el punto de mantenimiento *Target_Operator* en donde se hace el ajuste de la herramienta, la posicion de origen o inicial *Posicion_Inicial* en donde se ubica la esquina superior derecha de la hoja como su work object y finalmente el punto home del proyecto  *HOME*, en el cual se posiciona el robot cada que va a hacer un cambio de esquema y en donde va a terminar cuando culmine el programa. 
+Por otro lado se diseñaron los *Targets* para los puntos sobre la superfuicie en cada una de las letras y del logo, estas se representaron como *Target(Letra que se va a dibujar)_(Numero de punto en la letra)*.
+
+<p align="center">
+  <img src="/Imágenes/EncabezadoCódigo.PNG" />
+</p>
+
+A continuación se diseñaron diferentes funciones para el path de cada una de las letras y del logo de tesla con el fin de facilitar detectar errores en el recorrido del código y especificar condiciones detalladas en cada una de las letras y símbolos, tales como velocidad de recorridos en paths específicos, niveles de precisión en algunos targets y tiempos de espera, es importante aclarar que al final de cada función el marcador pasa nuevamente por el target inicial de la letra para finalmente ir al *HOME* del proyecto.
+
+<p align="center">
+  <img src="/Imágenes/Paths.PNG" />
+</p>
+
+Finalmente para el diseño de la función principal *main()* se inició apagando todas las salidas del sistema con el objetico que el dispositivo se encontrara en un estado conocido cuando se empezara a manipular, se procedio a pausar el código hasta presentar una señal de entrada para iniciar el recorrido al estado de mantenimiento y a activar la salida del led1. Una vez hecho el ajuste de mantenimiento el codigo se pausa nuevamente hasta presentar otra señal de entrada la cual le permite llegar a la posición origen de la hoja apagando el led1 y dadole salida al led 2, finalmente al ingresar una tercera señal de entrada el sistema apaga el led 2 y activa el led 3 el cual nos indica que se esta realiazndo el dibujo, en este caso se pasa por cada una de las funciones (letras) para finalmente ubicar el marcador en la posición *HOME* del proyecto.
+
+<p align="center">
+  <img src="/Imágenes/Main.PNG" />
+</p>
+
+Para acceder al código puede seleccionar el subtítuo de esta sección "Código RAPID" o darle clic [aquí](/LogoTesla/ControllerData/IRB140_6_81/RAPID/TASK1/PROGMOD/Module1.mod)
 
 ## Videos de pruebas de funcionamiento
 Simulación
