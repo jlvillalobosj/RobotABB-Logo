@@ -35,6 +35,7 @@ La herramienta se diseñó siguiendo las especificaciones del fabricante del rob
 </p>
 
 <p align="center">
+
   <img src="/Imágenes/Herramienta.PNG" width="400" />
 </p>
 
@@ -43,3 +44,6 @@ La herramienta se diseñó siguiendo las especificaciones del fabricante del rob
 ## [Videos de pruebas de funcionamiento](https://drive.google.com/drive/folders/1TjqHZUeRFE6-v9n2TI3CKVCBduTdpxww?usp=sharing)
 
 Encontrará aquí una carpeta pública de Google Drive con videos tomados en la fase de pruebas del carro, haciendo funciones de prueba detalladas en el [firmware](/ProyectoDigitalII/firmware) junto con sus respectivos resultados en el robot.
+
+https://github.com/jlvillalobosj/RobotABB-Logo/assets/57506705/320bad9b-4126-4240-a565-06e80536f104
+
