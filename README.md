@@ -38,7 +38,7 @@ La herramienta se diseñó siguiendo las especificaciones del fabricante del rob
   <img src="/Imágenes/Herramienta.PNG" width="400" />
 </p>
 
-## [Código en RAPID](LogoTesla/Controller Data/IRB140_6_81/RAPID/TASK1/PROGMOD/Module1.mod)
+## [Código en RAPID](/LogoTesla/Controller Data/IRB140_6_81/RAPID/TASK1/PROGMOD/Module1.mod)
 
 ## [Videos de pruebas de funcionamiento](https://drive.google.com/drive/folders/1TjqHZUeRFE6-v9n2TI3CKVCBduTdpxww?usp=sharing)
 
