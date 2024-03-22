@@ -18,6 +18,10 @@ El presente repositorio tiene por objetivo dar a conocer el funcionamiento del b
 ## Diagrama de flujo
 El diagrama de flujo presentado se basa en las acciones seriales del brazo robótico con las respectivas restricciones o condiciones que se consideran necesarias para el propósito del robot
 
+<p align="center">
+  <img src="/Imágenes/Diagrama BrzoRobotico.drawio" width="400" />
+</p>
+
 ## Plano de planta
 
 ## Funciones utilizadas
