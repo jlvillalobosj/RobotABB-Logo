@@ -45,7 +45,7 @@ Para el diseño del código se inició crando una herramienta la cual me ayudaba
 
 <p align="center">
   <img src="/Imágenes/CreacionHerramienta.PNG" />
- <img src="/Imágenes/TCP.PNG" style="float:left;" />
+ <img src="/Imágenes/TCP.PNG" style="width: 45%; height: auto;" />
 </p>
 
 Se procedio a establecer los diferentes *Targets* por donde se espera pasar el marcador, entre estos inicialmente se ubicaron el punto de mantenimiento *Target_Operator* en donde se hace el ajuste de la herramienta, la posicion de origen o inicial *Posicion_Inicial* en donde se ubica la esquina superior derecha de la hoja como su work object y finalmente el punto home del proyecto  *HOME*, en el cual se posiciona el robot cada que va a hacer un cambio de esquema y en donde va a terminar cuando culmine el programa. 
