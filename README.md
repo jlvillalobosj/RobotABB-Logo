@@ -9,6 +9,7 @@ El presente repositorio tiene por objetivo dar a conocer el funcionamiento del b
 
 <p align="center">
   <img src="/Imágenes/BrazoRobotico.PNG" width="400" />
+ <img src="/Imágenes/BrazoRoboticoUNAL.PNG" style="float:left;" />
 </p>
 
 ## [Solucion planteada](RobotAbb-Logo)
