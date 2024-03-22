@@ -8,7 +8,7 @@
 Repositorio del proyecto final de la asignatura Electrónica Digital II de la Universidad Nacional de Colombia - Sede Bogotá.
 Aquí encontrará el proyecto de Robot Cartográfico propuesto para la clase listo para usar junto con la respectiva documentación de cada módulo implementado.
 
-![Screenshot](/Imagenes/BrazoRobotico.PNG)
+![Screenshot](/Imágenes/BrazoRobotico.PNG)
 
 A continuación se presentan las secciones en las que se divide el proyecto, haciendo click en cada enlace encontrará los directorios pertinentes dentro del Git y la documentación relacionada a todas ellas.
 
