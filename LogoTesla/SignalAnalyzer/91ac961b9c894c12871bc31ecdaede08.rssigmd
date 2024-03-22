@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Metadata Version="1">
+  <Id>91ac961b9c894c12871bc31ecdaede08</Id>
+  <Name>Recording-3</Name>
+  <EventCount>1</EventCount>
+  <StartedUtc>2024-03-11T15:56:06.5816064Z</StartedUtc>
+  <EndedUtc>2024-03-11T15:56:06.9507019Z</EndedUtc>
+  <TotalTime>0</TotalTime>
+  <Signals />
+  <Sources>
+    <Source type="Station" id="{acc87075-0d0d-45e9-aa61-5e93e8cbbaf1}" displayName="LogoTesla" />
+  </Sources>
+</Metadata>
