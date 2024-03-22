@@ -41,9 +41,10 @@ La herramienta se diseñó siguiendo las especificaciones del fabricante del rob
 
 ## [Código en RAPID](/LogoTesla/ControllerData/IRB140_6_81/RAPID/TASK1/PROGMOD/Module1.mod)
 
-## [Videos de pruebas de funcionamiento](https://drive.google.com/drive/folders/1TjqHZUeRFE6-v9n2TI3CKVCBduTdpxww?usp=sharing)
-
-Encontrará aquí una carpeta pública de Google Drive con videos tomados en la fase de pruebas del carro, haciendo funciones de prueba detalladas en el [firmware](/ProyectoDigitalII/firmware) junto con sus respectivos resultados en el robot.
-
+## Videos de pruebas de funcionamiento
+#Simulación
 https://github.com/jlvillalobosj/RobotABB-Logo/assets/57506705/320bad9b-4126-4240-a565-06e80536f104
+
+#Prueba Real
+https://github.com/jlvillalobosj/RobotABB-Logo/assets/57506705/acefa244-26ae-4086-ad4b-36ae096dd5aa
 
