@@ -28,6 +28,10 @@ El diagrama de flujo presentado se basa en las acciones seriales del brazo robó
 
 ## Herramienta
 
+<p align="center">
+  <img src="/Imágenes/Herramienta.PNG" width="400" />
+</p>
+
 ## Código en RAPID
 
 ## [Videos de pruebas de funcionamiento](https://drive.google.com/drive/folders/1TjqHZUeRFE6-v9n2TI3CKVCBduTdpxww?usp=sharing)
