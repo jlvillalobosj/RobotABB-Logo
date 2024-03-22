@@ -1,32 +1,29 @@
 # RobotABB-Logo
 
-# Grupo 1
+# Grupo 2
 
  - Julian Leonardo Villalobos Jiménez - jlvillalovbosj@unal.edu.co
  - Jhonathann Alexander Gómez Velásquez - jhagomezve@unal.edu.co
 
-Repositorio del proyecto final de la asignatura Electrónica Digital II de la Universidad Nacional de Colombia - Sede Bogotá.
-Aquí encontrará el proyecto de Robot Cartográfico propuesto para la clase listo para usar junto con la respectiva documentación de cada módulo implementado.
+El presente repositorio tiene por objetivo dar a conocer el funcionamiento del brazo robótico industrial IRB-140 de la marca ABB, en donde por medio de funciones y comandos que nos permitiran otorgarle movimientos deseados y precisos al robot se haga un esquema con las iniciales de nuestros nombres y el logo de una empresa conocida. 
 
 <p align="center">
   <img src="/Imágenes/BrazoRobotico.PNG" width="400" />
 </p>
 
-A continuación se presentan las secciones en las que se divide el proyecto, haciendo click en cada enlace encontrará los directorios pertinentes dentro del Git y la documentación relacionada a todas ellas.
+## [Solucion planteada](RobotAbb-Logo)
 
-## [SoC](/ProyectoDigitalII)
-En esta subsección, se encontrará con la carpeta raíz del proyecto, y allí encontrará toda la información correspondiente a cómo se escribe y como se ensambla un SoC que contiene un procesador, un bus Wishbone, módulos escritos en Verilog, entre otras cosas, así como los archivos necesarios para, por ejemplo realizar una nueva compilación del proyecto.
 
-## [Firmware](/ProyectoDigitalII/firmware)
-Al seguir este enlace, encontrará la carpeta en la que se encuentra toda la información del firmware creado para nuestro SoC previamente compilado con Litex, explicando el código usado y el algoritmo general que permite al robot recorrer un laberinto y transmitir la información que lo describa adecuadamente por medio de la terminal.
+## Diagrama de flujo
+El diagrama de flujo presentado se basa en las acciones seriales del brazo robótico con las respectivas restricciones o condiciones que se consideran necesarias para el propósito del robot
 
-## [Módulos de Verilog](/ProyectoDigitalII/module)
-En el enlace de la subsección se encontrará con el directorio en el que están los archivos de Python que integran los módulos con Litex, sin embargo en los listados aquí abajo encontrará los directorios que contienen sus archivos en Verilog acompañados de la explicación de su funcionamiento.
-- [Ultrasonido](/ProyectoDigitalII/module/verilog/Ultrasonido(NexysA7))
-- [IR](/ProyectoDigitalII/module/verilog/Infrarrojo)
-- [Motor](/Motor.md) 
-- [PWM](/ProyectoDigitalII/module/verilog/PWM)
-- [Cámara](/ProyectoDigitalII/module/verilog/camara)
+## Plano de planta
+
+## Funciones utilizadas
+
+## Herramienta
+
+## Código en RAPID
 
 ## [Videos de pruebas de funcionamiento](https://drive.google.com/drive/folders/1TjqHZUeRFE6-v9n2TI3CKVCBduTdpxww?usp=sharing)
 Encontrará aquí una carpeta pública de Google Drive con videos tomados en la fase de pruebas del carro, haciendo funciones de prueba detalladas en el [firmware](/ProyectoDigitalII/firmware) junto con sus respectivos resultados en el robot.
