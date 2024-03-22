@@ -32,10 +32,6 @@ La herramienta se diseñó siguiendo las especificaciones del fabricante del rob
 
 <p align="center">
   <img src="/Imágenes/Tool1.PNG" width="400" />
-</p>
-
-<p align="center">
-
   <img src="/Imágenes/Herramienta.PNG" width="400" />
 </p>
 
