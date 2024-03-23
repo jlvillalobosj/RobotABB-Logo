@@ -15,7 +15,7 @@ El presente repositorio tiene por objetivo dar a conocer el funcionamiento del b
 ## Solucion planteada
 La solución planteada para abordar el problema fue la siguiente:
 
-+ Se diseñó y manufacturó el efector final que sería colocado en el robot para realizar los trazos solicitados.
++ <b>Diseño y fabricación del efector final:</b> Se diseñó y fabricó a medida un efector final que se acopla al robot para realizar los trazos deseados.
 + Se establecieron el logo y las iniciales para las cuales se van a diseñar las trayectorias.
 + Se utilizó la herramienta de RobotStudio para generar las trayectorias necesarias que permitirían alcanzar los movimientos deseados.
 + A través de la programación en RAPID, se implementaron las entradas y salidas digitales para controlar el robot.
