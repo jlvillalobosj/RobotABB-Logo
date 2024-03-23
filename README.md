@@ -31,6 +31,18 @@ El diagrama de flujo presentado se basa en las acciones seriales del brazo robó
 
 ## Plano de planta
 
+Para el controlar la distancias y los movimientos específicos de la herramienta se diseño una guía en inventor en donde se dibujo las letras y el simbolo de tesla como referencia para los crear los targets del robot, por otro lado se hizo un esquema de la hoja para crear la posició origen del robot.
+
+<p align="center">
+  <img src="/Imágenes/BrazoRobotico.PNG" width="400" />
+ <img src="/Imágenes/BrazoRoboticoUNAL.PNG" style="float:left;" />
+</p>
+
+<p align="center">
+  <img src="/Imágenes/BrazoRobotico.PNG" width="400" />
+ <img src="/Imágenes/BrazoRoboticoUNAL.PNG" style="float:left;" />
+</p>
+
 ## Funciones utilizadas
 
 Para realizar el código se hizo uso de algunas funciones internas de robotStudio las cuales nos permitian posicionar los diferentes estados de la herramienta, los movimientos entre las posiciones, y los comandos lógicos para establecer acciones controladas por el usuario, entre estas funciones encontramos:
