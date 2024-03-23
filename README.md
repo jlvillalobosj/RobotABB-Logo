@@ -26,6 +26,8 @@ El diagrama de flujo presentado se basa en las acciones seriales del brazo robó
 
 ## Funciones utilizadas
 
+Para realizar el código se hizo uso de algunas funciones internas de robotStudio
+
 ## Herramienta
 
 La herramienta se diseñó siguiendo las especificaciones del fabricante del robot para la base. Se le asignó un ángulo de inclinación de 45 grados para reducir la probabilidad de que se generaran singularidades en las trayectorias del robot. Su longitud se determinó para sujetar a presión el marcador utilizado. Asimismo, se dejó espacio en la base del marcador para la ubicación de un resorte que protege la herramienta y optimiza el resultado al momento de realizar la escritura. Por último se realizó la manufactura aditiva de la pieza considerando las tolerancias dimensionales de este tipo de manufactura.
