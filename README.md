@@ -13,13 +13,13 @@ El presente repositorio tiene por objetivo dar a conocer el funcionamiento del b
 </p>
 
 ## Solucion planteada
-La solución planteada para abordar el problema fue la siguiente:
+Para abordar el problema, se implementó la siguiente estrategia:
 
 + <b>Diseño y fabricación del efector final:</b> Se diseñó y fabricó a medida un efector final que se acopla al robot para realizar los trazos deseados.
-+ Se establecieron el logo y las iniciales para las cuales se van a diseñar las trayectorias.
-+ Se utilizó la herramienta de RobotStudio para generar las trayectorias necesarias que permitirían alcanzar los movimientos deseados.
-+ A través de la programación en RAPID, se implementaron las entradas y salidas digitales para controlar el robot.
-+ Finalmente, se llevaron a cabo las pruebas necesarias en el laboratorio con el robot real para solucionar exitosamente el problema.
++ <b>Planificación de las trayectorias:</b> Se definieron el logo y las iniciales como elementos para los cuales se generarían las trayectorias de movimiento.
++ <b>Programación de movimientos:</b> Se utilizó RobotStudio para generar las trayectorias precisas que permitieran al robot escribir el logo y las iniciales.
++ <b>Control del robot:</b> Mediante programación en RAPID, se implementaron las entradas y salidas digitales para controlar el robot durante la escritura.
++ <b>Pruebas y validación final:</b> Se realizaron pruebas exhaustivas en el laboratorio con el robot real para garantizar que siguiera las trayectorias programadas con precisión y que la calidad de la escritura cumpliera los requisitos.
 
 ## Diagrama de flujo
 
