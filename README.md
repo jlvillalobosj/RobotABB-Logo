@@ -33,7 +33,17 @@ El diagrama de flujo presentado se basa en las acciones seriales del brazo robó
 
 ## Funciones utilizadas
 
-Para realizar el código se hizo uso de algunas funciones internas de robotStudio
+Para realizar el código se hizo uso de algunas funciones internas de robotStudio las cuales nos permitian posicionar los diferentes estados de la herramienta, los movimientos entre las posiciones, y los comandos lógicos para establecer acciones controladas por el usuario, entre estas funciones encontramos:
+
+- Elemento 1
+  - Subíndice 1.1
+  - Subíndice 1.2
+- Elemento 2
+  - Subíndice 2.1
+  - Subíndice 2.2
+- Elemento 3
+  - Subíndice 3.1
+  - Subíndice 3.2
 
 ## Herramienta
 
