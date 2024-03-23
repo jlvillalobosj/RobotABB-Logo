@@ -70,11 +70,14 @@ Para realizar el código se hizo uso de algunas funciones internas de robotStudi
   Nos ayuda a poner en una posición inicial "0" el valor de la salida, en este caso se usa para apagar un led del tablero de control.
     
 - **Set Nombre_Salida;**
+  
   Nos ayuda a poner en una posición "1" el valor de la salida, en este caso se usa para prender un led del tablero de control.
     
 - **WaitDI Nombre_Entrada;**
   
   Nos ayuda a pausar el codigo en esta linea hasta presentar una señal de entrada, en este caso procedentes en un botón del tablero de control.
+
+  En el presente [enlace](/LogoTesla/ControllerData/IRB140_6_81/RAPID/TASK1/PROGMOD/Module1.mod), puede encontrar algunas guías de las funciones internas de RAPID y de robotStudio
 
 ## Herramienta
 
