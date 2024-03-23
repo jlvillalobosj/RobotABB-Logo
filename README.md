@@ -31,14 +31,14 @@ El diagrama de flujo presentado se basa en las acciones seriales del brazo robó
 
 ## Plano de planta
 
-Para el controlar la distancias y los movimientos específicos de la herramienta se diseño una guía en inventor en donde se dibujo las letras y el simbolo de tesla como referencia para los crear los targets del robot, por otro lado se hizo un esquema de la hoja para crear la posició origen del robot.
+Para controlar la distancias y los movimientos específicos de la herramienta en la base se diseñó una guía basada en una simulación en inventor en donde se dibujo las letras y el simbolo de tesla como referencia para crear los targets del brazo robótico, por otro lado se hizo un esquema de la hoja como referencia para establecer el tamaño de las letras y del logo.
 
 <p align="center">
   <img src="/Imágenes/Base.PNG" style="width: 45%; height: auto;" />
  <img src="/Imágenes/VistaGeneralPlanta.PNG" style="width: 45%; height: auto;" />
 </p>
 
-Por otro lado al ingresar la base de trabajo a Robot Studio se estqablecio una distancia a desde la base del robot a la del workspace de 50 centímetros, con el fin de no forzar los movimientos del brazo robótico, igualmente se adapto a la misma distancia del piso con un ángulo de inclinación de 45° para adaptarlo a la situación real.
+Al ingresar la base de trabajo a Robot Studio se estqablecio una distancia desde la base del robot a la del workspace de 50 centímetros, con el fin de no forzar los movimientos del brazo robótico, igualmente se adapto la base a la misma distancia del piso establecido por el simulador con un ángulo de inclinación de 45° con respecto a este.
 
 <p align="center">
   <img src="/Imágenes/CuadroPosicion.PNG"/>
