@@ -109,7 +109,7 @@ La herramienta se diseñó siguiendo las especificaciones del fabricante del rob
 </p>
 
 <p align="center">
-  <img src="/Imágenes/PenTool-1.PNG" width="400" />
+  <img src="/Imágenes/PenToolPlano.PNG" width="400" />
 </p>
 
 ## [Código en RAPID](/LogoTesla/ControllerData/IRB140_6_81/RAPID/TASK1/PROGMOD/Module1.mod)
